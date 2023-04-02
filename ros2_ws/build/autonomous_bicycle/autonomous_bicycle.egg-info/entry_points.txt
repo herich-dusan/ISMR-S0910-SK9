@@ -1,3 +1,0 @@
-[console_scripts]
-bludny_holandan = autonomous_bicycle.main:main
-
