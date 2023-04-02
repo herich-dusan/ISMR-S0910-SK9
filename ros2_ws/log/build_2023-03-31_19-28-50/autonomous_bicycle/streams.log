@@ -1,0 +1,17 @@
+[1.203s] Invoking command in '/home/white/ros2_ws/build/autonomous_bicycle': PYTHONPATH=/home/white/ros2_ws/build/autonomous_bicycle/prefix_override:/home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/white/ros2_ws/build/autonomous_bicycle/build --no-deps install_data
+[1.703s] running develop
+[1.837s] running egg_info
+[1.838s] writing autonomous_bicycle.egg-info/PKG-INFO
+[1.838s] writing dependency_links to autonomous_bicycle.egg-info/dependency_links.txt
+[1.838s] writing entry points to autonomous_bicycle.egg-info/entry_points.txt
+[1.838s] writing requirements to autonomous_bicycle.egg-info/requires.txt
+[1.838s] writing top-level names to autonomous_bicycle.egg-info/top_level.txt
+[1.865s] reading manifest file 'autonomous_bicycle.egg-info/SOURCES.txt'
+[1.866s] writing manifest file 'autonomous_bicycle.egg-info/SOURCES.txt'
+[1.869s] running build_ext
+[1.869s] Creating /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous-bicycle.egg-link (link to .)
+[1.870s] Installing test_node script to /home/white/ros2_ws/install/autonomous_bicycle/lib/autonomous_bicycle
+[1.870s] 
+[1.870s] Installed /home/white/ros2_ws/build/autonomous_bicycle
+[1.870s] running install_data
+[1.899s] Invoked command in '/home/white/ros2_ws/build/autonomous_bicycle' returned '0': PYTHONPATH=/home/white/ros2_ws/build/autonomous_bicycle/prefix_override:/home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/white/ros2_ws/build/autonomous_bicycle/build --no-deps install_data

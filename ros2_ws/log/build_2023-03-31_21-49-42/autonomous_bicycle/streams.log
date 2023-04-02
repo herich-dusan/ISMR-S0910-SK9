@@ -1,0 +1,27 @@
+[1.261s] Invoking command in '/home/white/ros2_ws/build/autonomous_bicycle': PYTHONPATH=/home/white/ros2_ws/build/autonomous_bicycle/prefix_override:/home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/white/ros2_ws/build/autonomous_bicycle/build
+[1.796s] running develop
+[1.967s] Invoked command in '/home/white/ros2_ws/build/autonomous_bicycle' returned '0': PYTHONPATH=/home/white/ros2_ws/build/autonomous_bicycle/prefix_override:/home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/white/ros2_ws/build/autonomous_bicycle/build
+[1.970s] Invoking command in '/home/white/ros2_ws/src/autonomous_bicycle': PYTHONPATH=/home/white/ros2_ws/build/autonomous_bicycle/prefix_override:/home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/autonomous_bicycle build --build-base /home/white/ros2_ws/build/autonomous_bicycle/build install --record /home/white/ros2_ws/build/autonomous_bicycle/install.log --install-scripts $base/lib/autonomous_bicycle --single-version-externally-managed
+[2.464s] running egg_info
+[2.465s] writing ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/PKG-INFO
+[2.466s] writing dependency_links to ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/dependency_links.txt
+[2.466s] writing entry points to ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/entry_points.txt
+[2.466s] writing requirements to ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/requires.txt
+[2.466s] writing top-level names to ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/top_level.txt
+[2.502s] reading manifest file '../../build/autonomous_bicycle/autonomous_bicycle.egg-info/SOURCES.txt'
+[2.502s] writing manifest file '../../build/autonomous_bicycle/autonomous_bicycle.egg-info/SOURCES.txt'
+[2.503s] running build
+[2.503s] running build_py
+[2.503s] copying autonomous_bicycle/main.py -> /home/white/ros2_ws/build/autonomous_bicycle/build/lib/autonomous_bicycle
+[2.503s] running install
+[2.505s] running install_lib
+[2.506s] copying /home/white/ros2_ws/build/autonomous_bicycle/build/lib/autonomous_bicycle/main.py -> /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle
+[2.508s] byte-compiling /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle/main.py to main.cpython-38.pyc
+[2.509s] running install_data
+[2.509s] running install_egg_info
+[2.513s] removing '/home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle-0.0.0-py3.8.egg-info' (and everything under it)
+[2.513s] Copying ../../build/autonomous_bicycle/autonomous_bicycle.egg-info to /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle-0.0.0-py3.8.egg-info
+[2.513s] running install_scripts
+[2.537s] Installing test_node script to /home/white/ros2_ws/install/autonomous_bicycle/lib/autonomous_bicycle
+[2.537s] writing list of installed files to '/home/white/ros2_ws/build/autonomous_bicycle/install.log'
+[2.564s] Invoked command in '/home/white/ros2_ws/src/autonomous_bicycle' returned '0': PYTHONPATH=/home/white/ros2_ws/build/autonomous_bicycle/prefix_override:/home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/autonomous_bicycle build --build-base /home/white/ros2_ws/build/autonomous_bicycle/build install --record /home/white/ros2_ws/build/autonomous_bicycle/install.log --install-scripts $base/lib/autonomous_bicycle --single-version-externally-managed

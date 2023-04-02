@@ -1,0 +1,26 @@
+running develop
+running egg_info
+writing ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/PKG-INFO
+writing dependency_links to ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/dependency_links.txt
+writing entry points to ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/entry_points.txt
+writing requirements to ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/requires.txt
+writing top-level names to ../../build/autonomous_bicycle/autonomous_bicycle.egg-info/top_level.txt
+reading manifest file '../../build/autonomous_bicycle/autonomous_bicycle.egg-info/SOURCES.txt'
+writing manifest file '../../build/autonomous_bicycle/autonomous_bicycle.egg-info/SOURCES.txt'
+running build
+running build_py
+copying autonomous_bicycle/main.py -> /home/white/ros2_ws/build/autonomous_bicycle/build/lib/autonomous_bicycle
+copying autonomous_bicycle/backup.py -> /home/white/ros2_ws/build/autonomous_bicycle/build/lib/autonomous_bicycle
+running install
+running install_lib
+copying /home/white/ros2_ws/build/autonomous_bicycle/build/lib/autonomous_bicycle/main.py -> /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle
+copying /home/white/ros2_ws/build/autonomous_bicycle/build/lib/autonomous_bicycle/backup.py -> /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle
+byte-compiling /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle/main.py to main.cpython-38.pyc
+byte-compiling /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle/backup.py to backup.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/autonomous_bicycle/autonomous_bicycle.egg-info to /home/white/ros2_ws/install/autonomous_bicycle/lib/python3.8/site-packages/autonomous_bicycle-0.0.0-py3.8.egg-info
+running install_scripts
+Installing test_node script to /home/white/ros2_ws/install/autonomous_bicycle/lib/autonomous_bicycle
+writing list of installed files to '/home/white/ros2_ws/build/autonomous_bicycle/install.log'

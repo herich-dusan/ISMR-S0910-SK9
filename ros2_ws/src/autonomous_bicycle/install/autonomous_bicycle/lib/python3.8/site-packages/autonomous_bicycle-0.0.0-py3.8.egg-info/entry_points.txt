@@ -1,0 +1,3 @@
+[console_scripts]
+test_node = autonomous_bicycle.test_node:main
+
